@@ -1,0 +1,59 @@
+fileFormatVersion: 2
+guid: 246a65cb14243bd44b3f3e07bb65bee5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - audioClip: {instanceID: 0}
+  - PickupMic: {fileID: 8300000, guid: 4b85c46d213c1ab45b69bc0e6e638c84, type: 3}
+  - DropMic: {instanceID: 0}
+  - Action: {fileID: 8300000, guid: 7e3adba6ca72c714f9f0ace3124efa28, type: 3}
+  - Cut: {instanceID: 0}
+  - HoverGeneric: {fileID: 8300000, guid: fd5ea91e26912944db76690473331fec, type: 3}
+  - Correct: {instanceID: 0}
+  - Dialog1: {instanceID: 0}
+  - Mumble1: {instanceID: 0}
+  - Dialog2: {instanceID: 0}
+  - Mumble2: {instanceID: 0}
+  - Dialog3: {instanceID: 0}
+  - Mumble3: {instanceID: 0}
+  - Slate: {instanceID: 0}
+  - Dialog4: {instanceID: 0}
+  - Dialog5: {instanceID: 0}
+  - Dialog6: {instanceID: 0}
+  - DirectorIntro: {instanceID: 0}
+  - DirectorScene1: {instanceID: 0}
+  - DirectorScene2: {instanceID: 0}
+  - DirectorScene3: {instanceID: 0}
+  - DirectorScene3_1: {instanceID: 0}
+  - Ernie1: {instanceID: 0}
+  - Ernie2: {instanceID: 0}
+  - Ernie1Mumble: {instanceID: 0}
+  - Ernie2Mumble: {instanceID: 0}
+  - BigPapa1: {instanceID: 0}
+  - Hanz1: {instanceID: 0}
+  - SrgtRose: {instanceID: 0}
+  - SrgtRoseMumble: {instanceID: 0}
+  - Cooper1: {instanceID: 0}
+  - Jason1: {instanceID: 0}
+  - SrgtRose2: {instanceID: 0}
+  - Cooper1Mumble: {instanceID: 0}
+  - Jason1Mumble: {instanceID: 0}
+  - SrgtRose2Mumble: {instanceID: 0}
+  - Hanz1Mumble: {instanceID: 0}
+  - Hanz2: {instanceID: 0}
+  - Hanz2Mumble: {instanceID: 0}
+  - Ernie3: {instanceID: 0}
+  - Ernie3Mumble: {instanceID: 0}
+  - DirectorFail1: {instanceID: 0}
+  - DirectorFail2: {instanceID: 0}
+  - DirectorFail3: {instanceID: 0}
+  - DirectorFail4: {instanceID: 0}
+  - DirectorSuccess1: {instanceID: 0}
+  - DirectorSuccess2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
